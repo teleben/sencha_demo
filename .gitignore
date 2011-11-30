@@ -1,0 +1,17 @@
+#Eclipse
+.settings
+.metadata
+Servers
+bin
+target
+
+
+#Mac OS X
+.DS_Store
+
+#Temporary Files
+*.*~
+
+#Textmate
+*.tmproj
+tmtags
