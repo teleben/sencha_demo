@@ -14,7 +14,7 @@ Ext.application({
             items: [
         		{
             		xtype: 'panel',
-            		margin: '50 10 5 10',
+            		margin: '25 10 5 10',
             		html : [
             			'<h1>Telelanguage</h1>',
                         '<p>Speak any language with Telelanguage.</p>',
@@ -24,6 +24,7 @@ Ext.application({
                		xtype: 'fieldset',
             		title: 'Login',
             		instructions: '',
+            		margin: '0 15 0 15',
             		items: [
             			{
             				xtype: 'textfield',

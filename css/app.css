@@ -1,5 +1,5 @@
 .home {
-	font-family: 'Helvetica Neue', arial, sans-serif;
+	font-family: arial, sans-serif;
     text-align: center;
     background: #FFF;
 }
@@ -7,7 +7,7 @@
 .home h1 {
 	margin-top: 50px;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 2.5em;
     color: #225A8B;
 }
 
@@ -15,7 +15,7 @@
     color: #666;
     font-size: .8em;
     line-height: 1.2em;
-    margin: 5px 20px 20px 20px;
+    margin: 20px 10px 0px 10px;
 }
 
 .home img {
@@ -24,7 +24,7 @@
 
 .home h2 {
     color: #999;
-    font-size: 1.6em;
+    font-size: 1.2em;
 }
 
 .blog p {
