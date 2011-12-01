@@ -1,4 +1,4 @@
-App = new Ext.Application({
+new Ext.Application({
     launch: function() {
         new Ext.Panel({
             fullscreen: true,
